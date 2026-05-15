@@ -2,11 +2,11 @@
   {
     "name": "Aniyomi: BigFuck",
     "pkg": "eu.kanade.tachiyomi.animeextension.en.bigfuck",
-    "apk": "apk/aniyomi-en.bigfuck-v16.1.apk",
-    "icon": "icon/eu.kanade.tachiyomi.animeextension.en.bigfuck.png",
+    "apk": "aniyomi-en.bigfuck-v16.3.apk",
+    "icon": "eu.kanade.tachiyomi.animeextension.en.bigfuck.png",
     "lang": "en",
-    "code": 1,
-    "version": "16.1",
+    "code": 3,
+    "version": "16.3",
     "nsfw": 1,
     "sig": "f0a63bee3762635f4e88bba60d49bef8372ae45ef96f4b9dd836b78362dd9438",
     "sources": [
@@ -14,18 +14,18 @@
         "name": "BigFuck",
         "lang": "en",
         "id": 11111,
-        "baseUrl": "https://bigfuck.com"
+        "baseUrl": "https://bigfuck.tv"
       }
     ]
   },
   {
     "name": "Aniyomi: EPorner",
     "pkg": "eu.kanade.tachiyomi.animeextension.en.eporner",
-    "apk": "apk/aniyomi-en.eporner-v16.1.apk",
-    "icon": "icon/eu.kanade.tachiyomi.animeextension.en.eporner.png",
+    "apk": "aniyomi-en.eporner-v16.3.apk",
+    "icon": "eu.kanade.tachiyomi.animeextension.en.eporner.png",
     "lang": "en",
-    "code": 1,
-    "version": "16.1",
+    "code": 3,
+    "version": "16.3",
     "nsfw": 1,
     "sig": "f0a63bee3762635f4e88bba60d49bef8372ae45ef96f4b9dd836b78362dd9438",
     "sources": [
@@ -40,11 +40,11 @@
   {
     "name": "Aniyomi: SpankBang",
     "pkg": "eu.kanade.tachiyomi.animeextension.en.spankbang",
-    "apk": "apk/aniyomi-en.spankbang-v16.1.apk",
-    "icon": "icon/eu.kanade.tachiyomi.animeextension.en.spankbang.png",
+    "apk": "aniyomi-en.spankbang-v16.3.apk",
+    "icon": "eu.kanade.tachiyomi.animeextension.en.spankbang.png",
     "lang": "en",
-    "code": 1,
-    "version": "16.1",
+    "code": 3,
+    "version": "16.3",
     "nsfw": 1,
     "sig": "f0a63bee3762635f4e88bba60d49bef8372ae45ef96f4b9dd836b78362dd9438",
     "sources": [
@@ -59,11 +59,11 @@
   {
     "name": "Aniyomi: TnAFlix",
     "pkg": "eu.kanade.tachiyomi.animeextension.en.tnaflix",
-    "apk": "apk/aniyomi-en.tnaflix-v16.1.apk",
-    "icon": "icon/eu.kanade.tachiyomi.animeextension.en.tnaflix.png",
+    "apk": "aniyomi-en.tnaflix-v16.3.apk",
+    "icon": "eu.kanade.tachiyomi.animeextension.en.tnaflix.png",
     "lang": "en",
-    "code": 1,
-    "version": "16.1",
+    "code": 3,
+    "version": "16.3",
     "nsfw": 1,
     "sig": "f0a63bee3762635f4e88bba60d49bef8372ae45ef96f4b9dd836b78362dd9438",
     "sources": [
@@ -78,11 +78,11 @@
   {
     "name": "Aniyomi: XHamster",
     "pkg": "eu.kanade.tachiyomi.animeextension.en.xhamster",
-    "apk": "apk/aniyomi-en.xhamster-v16.1.apk",
-    "icon": "icon/eu.kanade.tachiyomi.animeextension.en.xhamster.png",
+    "apk": "aniyomi-en.xhamster-v16.3.apk",
+    "icon": "eu.kanade.tachiyomi.animeextension.en.xhamster.png",
     "lang": "en",
-    "code": 1,
-    "version": "16.1",
+    "code": 3,
+    "version": "16.3",
     "nsfw": 1,
     "sig": "f0a63bee3762635f4e88bba60d49bef8372ae45ef96f4b9dd836b78362dd9438",
     "sources": [
