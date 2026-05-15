@@ -1,0 +1,32 @@
+name: Pull Request Check
+
+on:
+  pull_request:
+    paths:
+      - 'src/**'
+      - 'core/**'
+      - 'buildSrc/**'
+      - 'common.gradle'
+      - 'build.gradle.kts'
+      - 'settings.gradle.kts'
+      - 'gradle/**'
+
+jobs:
+  build:
+    name: Build and check
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout PR
+        uses: actions/checkout@v4
+
+      - name: Set up JDK 17
+        uses: actions/setup-java@v4
+        with:
+          java-version: '17'
+          distribution: 'temurin'
+
+      - name: Build extensions
+        uses: gradle/gradle-command-action@v2
+        with:
+          arguments: assembleDebug

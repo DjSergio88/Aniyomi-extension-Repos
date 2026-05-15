@@ -1,0 +1,22 @@
+# Gradle
+.gradle/
+build/
+**/build/
+
+# Android Studio / IntelliJ
+.idea/
+*.iml
+local.properties
+captures/
+
+# macOS / Windows noise
+.DS_Store
+Thumbs.db
+
+# Never commit signing material
+*.jks
+*.keystore
+
+# Generated outputs you typically attach to GitHub Releases instead of committing
+*.apk
+*.aab
