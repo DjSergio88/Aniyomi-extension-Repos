@@ -10,7 +10,7 @@ android {
         minSdkVersion AndroidConfig.minSdk
         targetSdkVersion AndroidConfig.targetSdk
         
-        // Final ID: eu.kanade.tachiyomi.animeextension.en.tnaflix
+        // Final ID must match JSON: eu.kanade.tachiyomi.animeextension.en.tnaflix
         applicationId "eu.kanade.tachiyomi.animeextension.${project.parent.name}.${project.name}"
         
         versionCode extVersionCode
@@ -45,6 +45,9 @@ android {
     }
 
     buildTypes {
+        debug {
+            signingConfig signingConfigs.debug
+        }
         release {
             signingConfig signingConfigs.debug
             minifyEnabled false
