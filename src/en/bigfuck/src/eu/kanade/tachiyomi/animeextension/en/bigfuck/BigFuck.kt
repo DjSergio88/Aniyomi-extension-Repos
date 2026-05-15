@@ -13,7 +13,7 @@ class BigFuck : ParsedAnimeHttpSource() {
 
     override val name = "BigFuck"
 
-    override val baseUrl = "https://bigfuck.com"
+    override val baseUrl = "https://bigfuck.tv"
 
     override val lang = "en"
 
