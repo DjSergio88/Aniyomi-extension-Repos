@@ -10,14 +10,18 @@ android {
         minSdkVersion AndroidConfig.minSdk
         targetSdkVersion AndroidConfig.targetSdk
         
-        // Final ID must match JSON: eu.kanade.tachiyomi.animeextension.en.tnaflix
-        applicationId "eu.kanade.tachiyomi.animeextension.${project.parent.name}.${project.name}"
+        // Correct ID: eu.kanade.tachiyomi.animeextension.en.tnaflix
+        // This splits the path ':src:en:tnaflix' to get 'en' and 'tnaflix'
+        def pathParts = project.path.split(":")
+        def lang = pathParts[pathParts.length - 2]
+        def name = pathParts[pathParts.length - 1]
+        applicationId "eu.kanade.tachiyomi.animeextension.${lang}.${name}"
         
         versionCode extVersionCode
         versionName "1.0.$extVersionCode"
         
         base {
-            archivesName = "aniyomi-${project.parent.name}.${project.name}-v${versionName}"
+            archivesName = "aniyomi-${lang}.${name}-v${versionName}"
         }
 
         manifestPlaceholders = [
@@ -45,9 +49,6 @@ android {
     }
 
     buildTypes {
-        debug {
-            signingConfig signingConfigs.debug
-        }
         release {
             signingConfig signingConfigs.debug
             minifyEnabled false

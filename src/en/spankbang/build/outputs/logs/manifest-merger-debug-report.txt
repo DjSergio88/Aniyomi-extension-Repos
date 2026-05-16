@@ -1,0 +1,47 @@
+-- Merging decision tree log ---
+application
+INJECTED from C:\Users\sergj\Desktop\aniyomi-extension-repo\src\en\spankbang\AndroidManifest.xml:2:5-10:19
+INJECTED from C:\Users\sergj\Desktop\aniyomi-extension-repo\src\en\spankbang\AndroidManifest.xml:2:5-10:19
+	android:extractNativeLibs
+		INJECTED from C:\Users\sergj\Desktop\aniyomi-extension-repo\src\en\spankbang\AndroidManifest.xml
+	android:label
+		INJECTED from C:\Users\sergj\Desktop\aniyomi-extension-repo\src\en\spankbang\AndroidManifest.xml
+		ADDED from C:\Users\sergj\Desktop\aniyomi-extension-repo\src\en\spankbang\AndroidManifest.xml:3:9-35
+meta-data#aniyomi.animeextension.class
+INJECTED from C:\Users\sergj\Desktop\aniyomi-extension-repo\src\en\spankbang\AndroidManifest.xml:4:9-6:43
+	android:value
+		INJECTED from C:\Users\sergj\Desktop\aniyomi-extension-repo\src\en\spankbang\AndroidManifest.xml
+		ADDED from C:\Users\sergj\Desktop\aniyomi-extension-repo\src\en\spankbang\AndroidManifest.xml:6:13-40
+	android:name
+		ADDED from C:\Users\sergj\Desktop\aniyomi-extension-repo\src\en\spankbang\AndroidManifest.xml:5:13-56
+meta-data#aniyomi.animeextension.nsfw
+INJECTED from C:\Users\sergj\Desktop\aniyomi-extension-repo\src\en\spankbang\AndroidManifest.xml:7:9-9:39
+	android:value
+		INJECTED from C:\Users\sergj\Desktop\aniyomi-extension-repo\src\en\spankbang\AndroidManifest.xml
+		ADDED from C:\Users\sergj\Desktop\aniyomi-extension-repo\src\en\spankbang\AndroidManifest.xml:9:13-36
+	android:name
+		ADDED from C:\Users\sergj\Desktop\aniyomi-extension-repo\src\en\spankbang\AndroidManifest.xml:8:13-55
+manifest
+ADDED from C:\Users\sergj\Desktop\aniyomi-extension-repo\src\en\spankbang\AndroidManifest.xml:1:1-11:12
+INJECTED from C:\Users\sergj\Desktop\aniyomi-extension-repo\src\en\spankbang\AndroidManifest.xml:1:1-11:12
+INJECTED from C:\Users\sergj\Desktop\aniyomi-extension-repo\src\en\spankbang\AndroidManifest.xml:1:1-11:12
+INJECTED from C:\Users\sergj\Desktop\aniyomi-extension-repo\src\en\spankbang\AndroidManifest.xml:1:1-11:12
+MERGED from [:core] C:\Users\sergj\Desktop\aniyomi-extension-repo\core\build\intermediates\merged_manifest\debug\processDebugManifest\AndroidManifest.xml:2:1-7:12
+	package
+		INJECTED from C:\Users\sergj\Desktop\aniyomi-extension-repo\src\en\spankbang\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\sergj\Desktop\aniyomi-extension-repo\src\en\spankbang\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\sergj\Desktop\aniyomi-extension-repo\src\en\spankbang\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\sergj\Desktop\aniyomi-extension-repo\src\en\spankbang\AndroidManifest.xml:1:11-69
+uses-sdk
+INJECTED from C:\Users\sergj\Desktop\aniyomi-extension-repo\src\en\spankbang\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\sergj\Desktop\aniyomi-extension-repo\src\en\spankbang\AndroidManifest.xml
+INJECTED from C:\Users\sergj\Desktop\aniyomi-extension-repo\src\en\spankbang\AndroidManifest.xml
+MERGED from [:core] C:\Users\sergj\Desktop\aniyomi-extension-repo\core\build\intermediates\merged_manifest\debug\processDebugManifest\AndroidManifest.xml:5:5-44
+MERGED from [:core] C:\Users\sergj\Desktop\aniyomi-extension-repo\core\build\intermediates\merged_manifest\debug\processDebugManifest\AndroidManifest.xml:5:5-44
+	android:targetSdkVersion
+		INJECTED from C:\Users\sergj\Desktop\aniyomi-extension-repo\src\en\spankbang\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\sergj\Desktop\aniyomi-extension-repo\src\en\spankbang\AndroidManifest.xml

@@ -1,0 +1,21 @@
+{
+  "version": 3,
+  "artifactType": {
+    "type": "APK",
+    "kind": "Directory"
+  },
+  "applicationId": "eu.kanade.tachiyomi.animeextension.en.spankbang",
+  "variantName": "debug",
+  "elements": [
+    {
+      "type": "SINGLE",
+      "filters": [],
+      "attributes": [],
+      "versionCode": 100,
+      "versionName": "1.0.100",
+      "outputFile": "aniyomi-en.spankbang-v1.0.100-debug.apk"
+    }
+  ],
+  "elementType": "File",
+  "minSdkVersionForDexing": 21
+}

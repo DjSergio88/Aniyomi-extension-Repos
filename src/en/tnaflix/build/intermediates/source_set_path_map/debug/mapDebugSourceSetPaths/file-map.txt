@@ -1,0 +1,9 @@
+eu.kanade.tachiyomi.animeextension.tnaflix-debug-0 C:\Users\sergj\Desktop\aniyomi-extension-repo\core\build\intermediates\packaged_res\debug\packageDebugResources
+eu.kanade.tachiyomi.animeextension.tnaflix-pngs-1 C:\Users\sergj\Desktop\aniyomi-extension-repo\src\en\tnaflix\build\generated\res\pngs\debug
+eu.kanade.tachiyomi.animeextension.tnaflix-resValues-2 C:\Users\sergj\Desktop\aniyomi-extension-repo\src\en\tnaflix\build\generated\res\resValues\debug
+eu.kanade.tachiyomi.animeextension.tnaflix-updated_navigation_xml-3 C:\Users\sergj\Desktop\aniyomi-extension-repo\src\en\tnaflix\build\generated\updated_navigation_xml\debug
+eu.kanade.tachiyomi.animeextension.tnaflix-mergeDebugResources-4 C:\Users\sergj\Desktop\aniyomi-extension-repo\src\en\tnaflix\build\intermediates\incremental\debug\mergeDebugResources\merged.dir
+eu.kanade.tachiyomi.animeextension.tnaflix-mergeDebugResources-5 C:\Users\sergj\Desktop\aniyomi-extension-repo\src\en\tnaflix\build\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+eu.kanade.tachiyomi.animeextension.tnaflix-debug-6 C:\Users\sergj\Desktop\aniyomi-extension-repo\src\en\tnaflix\build\intermediates\merged_res\debug\mergeDebugResources
+eu.kanade.tachiyomi.animeextension.tnaflix-tnaflix-7 C:\Users\sergj\Desktop\aniyomi-extension-repo\src\en\tnaflix\res
+eu.kanade.tachiyomi.animeextension.tnaflix-debug-8 C:\Users\sergj\Desktop\aniyomi-extension-repo\src\en\tnaflix\src\debug\res

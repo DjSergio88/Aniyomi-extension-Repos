@@ -1,0 +1,9 @@
+eu.kanade.tachiyomi.animeextension.eporner-debug-0 C:\Users\sergj\Desktop\aniyomi-extension-repo\core\build\intermediates\packaged_res\debug\packageDebugResources
+eu.kanade.tachiyomi.animeextension.eporner-pngs-1 C:\Users\sergj\Desktop\aniyomi-extension-repo\src\en\eporner\build\generated\res\pngs\debug
+eu.kanade.tachiyomi.animeextension.eporner-resValues-2 C:\Users\sergj\Desktop\aniyomi-extension-repo\src\en\eporner\build\generated\res\resValues\debug
+eu.kanade.tachiyomi.animeextension.eporner-updated_navigation_xml-3 C:\Users\sergj\Desktop\aniyomi-extension-repo\src\en\eporner\build\generated\updated_navigation_xml\debug
+eu.kanade.tachiyomi.animeextension.eporner-mergeDebugResources-4 C:\Users\sergj\Desktop\aniyomi-extension-repo\src\en\eporner\build\intermediates\incremental\debug\mergeDebugResources\merged.dir
+eu.kanade.tachiyomi.animeextension.eporner-mergeDebugResources-5 C:\Users\sergj\Desktop\aniyomi-extension-repo\src\en\eporner\build\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+eu.kanade.tachiyomi.animeextension.eporner-debug-6 C:\Users\sergj\Desktop\aniyomi-extension-repo\src\en\eporner\build\intermediates\merged_res\debug\mergeDebugResources
+eu.kanade.tachiyomi.animeextension.eporner-eporner-7 C:\Users\sergj\Desktop\aniyomi-extension-repo\src\en\eporner\res
+eu.kanade.tachiyomi.animeextension.eporner-debug-8 C:\Users\sergj\Desktop\aniyomi-extension-repo\src\en\eporner\src\debug\res

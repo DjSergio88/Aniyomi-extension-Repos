@@ -1,5 +1,9 @@
 package eu.kanade.tachiyomi.animeextension.en.spankbang
 
+import android.app.Application
+import android.content.SharedPreferences
+import androidx.preference.PreferenceScreen
+import eu.kanade.tachiyomi.animesource.ConfigurableAnimeSource
 import eu.kanade.tachiyomi.animesource.model.AnimeFilterList
 import eu.kanade.tachiyomi.animesource.model.SAnime
 import eu.kanade.tachiyomi.animesource.model.SEpisode
@@ -8,8 +12,10 @@ import eu.kanade.tachiyomi.animesource.online.ParsedAnimeHttpSource
 import okhttp3.Request
 import org.jsoup.nodes.Document
 import org.jsoup.nodes.Element
+import uy.kohesive.injekt.Injekt
+import uy.kohesive.injekt.api.get
 
-class SpankBang : ParsedAnimeHttpSource() {
+class SpankBang : ParsedAnimeHttpSource(), ConfigurableAnimeSource {
 
     override val name = "SpankBang"
 
@@ -18,6 +24,10 @@ class SpankBang : ParsedAnimeHttpSource() {
     override val lang = "en"
 
     override val supportsLatest = true
+
+    private val preferences: SharedPreferences by lazy {
+        Injekt.get<Application>().getSharedPreferences("source_$id", 0)
+    }
 
     override fun popularAnimeRequest(page: Int): Request = Request.Builder().url("$baseUrl/popular/$page").build()
     override fun popularAnimeSelector(): String = "div.video"
@@ -51,4 +61,8 @@ class SpankBang : ParsedAnimeHttpSource() {
     override fun videoListSelector(): String = "div.video-player"
     override fun videoFromElement(element: Element): Video = throw Exception("Not implemented")
     override fun videoUrlParse(document: Document): String = throw Exception("Not implemented")
+
+    override fun setupPreferenceScreen(screen: PreferenceScreen) {
+        // No preferences yet
+    }
 }

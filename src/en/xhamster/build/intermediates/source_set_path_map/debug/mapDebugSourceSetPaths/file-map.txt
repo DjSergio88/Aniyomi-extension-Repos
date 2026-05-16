@@ -1,0 +1,9 @@
+eu.kanade.tachiyomi.animeextension.xhamster-debug-0 C:\Users\sergj\Desktop\aniyomi-extension-repo\core\build\intermediates\packaged_res\debug\packageDebugResources
+eu.kanade.tachiyomi.animeextension.xhamster-pngs-1 C:\Users\sergj\Desktop\aniyomi-extension-repo\src\en\xhamster\build\generated\res\pngs\debug
+eu.kanade.tachiyomi.animeextension.xhamster-resValues-2 C:\Users\sergj\Desktop\aniyomi-extension-repo\src\en\xhamster\build\generated\res\resValues\debug
+eu.kanade.tachiyomi.animeextension.xhamster-updated_navigation_xml-3 C:\Users\sergj\Desktop\aniyomi-extension-repo\src\en\xhamster\build\generated\updated_navigation_xml\debug
+eu.kanade.tachiyomi.animeextension.xhamster-mergeDebugResources-4 C:\Users\sergj\Desktop\aniyomi-extension-repo\src\en\xhamster\build\intermediates\incremental\debug\mergeDebugResources\merged.dir
+eu.kanade.tachiyomi.animeextension.xhamster-mergeDebugResources-5 C:\Users\sergj\Desktop\aniyomi-extension-repo\src\en\xhamster\build\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+eu.kanade.tachiyomi.animeextension.xhamster-debug-6 C:\Users\sergj\Desktop\aniyomi-extension-repo\src\en\xhamster\build\intermediates\merged_res\debug\mergeDebugResources
+eu.kanade.tachiyomi.animeextension.xhamster-xhamster-7 C:\Users\sergj\Desktop\aniyomi-extension-repo\src\en\xhamster\res
+eu.kanade.tachiyomi.animeextension.xhamster-debug-8 C:\Users\sergj\Desktop\aniyomi-extension-repo\src\en\xhamster\src\debug\res

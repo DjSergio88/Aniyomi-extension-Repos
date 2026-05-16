@@ -1,0 +1,9 @@
+eu.kanade.tachiyomi.animeextension.bigfuck-debug-0 C:\Users\sergj\Desktop\aniyomi-extension-repo\core\build\intermediates\packaged_res\debug\packageDebugResources
+eu.kanade.tachiyomi.animeextension.bigfuck-pngs-1 C:\Users\sergj\Desktop\aniyomi-extension-repo\src\en\bigfuck\build\generated\res\pngs\debug
+eu.kanade.tachiyomi.animeextension.bigfuck-resValues-2 C:\Users\sergj\Desktop\aniyomi-extension-repo\src\en\bigfuck\build\generated\res\resValues\debug
+eu.kanade.tachiyomi.animeextension.bigfuck-updated_navigation_xml-3 C:\Users\sergj\Desktop\aniyomi-extension-repo\src\en\bigfuck\build\generated\updated_navigation_xml\debug
+eu.kanade.tachiyomi.animeextension.bigfuck-mergeDebugResources-4 C:\Users\sergj\Desktop\aniyomi-extension-repo\src\en\bigfuck\build\intermediates\incremental\debug\mergeDebugResources\merged.dir
+eu.kanade.tachiyomi.animeextension.bigfuck-mergeDebugResources-5 C:\Users\sergj\Desktop\aniyomi-extension-repo\src\en\bigfuck\build\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+eu.kanade.tachiyomi.animeextension.bigfuck-debug-6 C:\Users\sergj\Desktop\aniyomi-extension-repo\src\en\bigfuck\build\intermediates\merged_res\debug\mergeDebugResources
+eu.kanade.tachiyomi.animeextension.bigfuck-bigfuck-7 C:\Users\sergj\Desktop\aniyomi-extension-repo\src\en\bigfuck\res
+eu.kanade.tachiyomi.animeextension.bigfuck-debug-8 C:\Users\sergj\Desktop\aniyomi-extension-repo\src\en\bigfuck\src\debug\res
